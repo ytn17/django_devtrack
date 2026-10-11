@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Yashaswini",
+        "email": "yashu13@network.com",
+        "team": "Noobler"
+    },
+    {
+        "id": 2,
+        "name": "Alex",
+        "email": "alexasak@network.com",
+        "team": "Himalayan"
+    },
+    {
+        "id": 3,
+        "name": "Alex",
+        "email": "alexasak@network.com",
+        "team": "Himalayan"
+    }
+]
