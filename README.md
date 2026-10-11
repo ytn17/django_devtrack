@@ -191,3 +191,17 @@ django_devtrack/
         └── reporters.json
 ```
 
+API test eveidences via Postman:
+
+1) Create issues API -
+   <img width="2226" height="600" alt="image (1)" src="https://github.com/user-attachments/assets/fc437726-6e87-496d-aa75-f063d57cccdc" />
+
+   <img width="2248" height="674" alt="image (2)" src="https://github.com/user-attachments/assets/cb02545b-afad-442a-b38e-e699aae74104" />
+
+   <img width="2246" height="740" alt="image (3)" src="https://github.com/user-attachments/assets/38b61b56-393f-4e96-8cfb-e033273739bb" />
+
+
+   
+   
+
+
